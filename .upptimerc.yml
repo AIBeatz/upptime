@@ -1,7 +1,5 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
-
+owner: aibeatz
+repo: upptime
 sites:
   - name: AIBeatz
     url: https://app.aibeatz.com
@@ -14,20 +12,14 @@ sites:
 #  - name: Synthesize
 #    url: $SYNTHESIZE_URL
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.aibeatz.com
-  # baseUrl: /your-repo-name
   logoUrl: https://app.aibeatz.com/images/signet.png
   favicon: https://app.aibeatz.com/images/favicon.png
-  name: Uptime
-  introTitle: "**AIBeatz** uptime monitor and status page."
-  introMessage: Status of all services
+  name: AIBeatz uptimes
+  introTitle: "**AIBeatz** uptime monitor."
+  introMessage: Current status of all services:
   navbar:
     - title: Status
       href: /
     - title: AIBeatz
       href: https://app.aibeatz.com/
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
