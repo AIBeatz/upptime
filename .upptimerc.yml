@@ -19,14 +19,15 @@ status-website:
   cname: uptime.aibeatz.com
   # baseUrl: /your-repo-name
   logoUrl: https://app.aibeatz.com/images/signet.png
+  favicon: https://app.aibeatz.com/images/favicon.png
   name: Uptime
   introTitle: "**AIBeatz** uptime monitor and status page."
   introMessage: Status of all services
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: AIBeatz
+      href: https://app.aibeatz.com/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
