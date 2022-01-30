@@ -18,7 +18,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.aibeatz.com
   # baseUrl: /your-repo-name
-  logoUrl: https://app.aibeatz.com/images/logo.svg
+  logoUrl: https://app.aibeatz.com/images/signet.png
   name: Uptime
   introTitle: "**AIBeatz** uptime monitor and status page."
   introMessage: Status of all services
