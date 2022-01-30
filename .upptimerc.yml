@@ -17,7 +17,7 @@ status-website:
   logoUrl: https://app.aibeatz.com/images/signet.png
   favicon: https://app.aibeatz.com/images/favicon.png
   introTitle: "**AIBeatz** uptime monitor."
-  introMessage: Current status of all services:
+  introMessage: "Current status of all services:"
   navbar:
     - title: Status
       href: /
