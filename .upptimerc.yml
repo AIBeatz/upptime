@@ -7,10 +7,10 @@ sites:
     url: $SOUND_URL
   - name: Dataset
     url: $DATASET_URL
+  - name: Synthesize
+    url: $SYNTHESIZE_URL
 #  - name: Compose
 #    url: $COMPOSE_URL
-#  - name: Synthesize
-#    url: $SYNTHESIZE_URL
 status-website:
   name: AIBeatz uptimes
   cname: uptime.aibeatz.com
