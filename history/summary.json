@@ -23,11 +23,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "synthesize",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
     "time": 421,
     "timeDay": 352,
     "timeWeek": 393,
@@ -61,18 +61,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dataset",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 578,
     "timeDay": 665,
     "timeWeek": 590,
     "timeMonth": 578,
     "timeYear": 578,
-    "dailyMinutesDown": {
-      "2022-02-14": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
