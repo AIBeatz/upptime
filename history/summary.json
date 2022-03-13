@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/app.aibeatz.com",
     "slug": "ai-beatz",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 589,
     "timeDay": 420,
     "timeWeek": 1062,
@@ -65,9 +65,9 @@
     "url": "$DATASET_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dataset",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
@@ -77,6 +77,7 @@
     "timeMonth": 605,
     "timeYear": 591,
     "dailyMinutesDown": {
+      "2022-03-13": 0,
       "2022-03-11": 19
     }
   }
