@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 595,
-    "timeDay": 730,
-    "timeWeek": 592,
-    "timeMonth": 762,
-    "timeYear": 595,
+    "time": 597,
+    "timeDay": 714,
+    "timeWeek": 627,
+    "timeMonth": 770,
+    "timeYear": 597,
     "dailyMinutesDown": {
       "2022-03-11": 21
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 484,
-    "timeDay": 572,
-    "timeWeek": 487,
-    "timeMonth": 545,
-    "timeYear": 484,
+    "time": 486,
+    "timeDay": 571,
+    "timeWeek": 516,
+    "timeMonth": 548,
+    "timeYear": 486,
     "dailyMinutesDown": {
       "2022-03-11": 20,
       "2022-01-30": 6
@@ -46,16 +46,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "sound",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.97%",
-    "time": 625,
-    "timeDay": 767,
-    "timeWeek": 644,
-    "timeMonth": 753,
-    "timeYear": 625,
+    "uptimeYear": "99.98%",
+    "time": 626,
+    "timeDay": 688,
+    "timeWeek": 671,
+    "timeMonth": 756,
+    "timeYear": 626,
     "dailyMinutesDown": {
       "2022-03-11": 20
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 623,
-    "timeDay": 806,
-    "timeWeek": 679,
-    "timeMonth": 690,
-    "timeYear": 623,
+    "time": 625,
+    "timeDay": 755,
+    "timeWeek": 711,
+    "timeMonth": 696,
+    "timeYear": 625,
     "dailyMinutesDown": {
       "2022-03-11": 19
     }
