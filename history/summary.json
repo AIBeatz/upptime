@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/app.aibeatz.com",
     "slug": "ai-beatz",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.97%",
-    "time": 598,
-    "timeDay": 716,
-    "timeWeek": 642,
-    "timeMonth": 771,
-    "timeYear": 598,
+    "uptimeYear": "99.98%",
+    "time": 595,
+    "timeDay": 358,
+    "timeWeek": 606,
+    "timeMonth": 758,
+    "timeYear": 595,
     "dailyMinutesDown": {
       "2022-03-11": 21
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
-    "time": 489,
-    "timeDay": 595,
-    "timeWeek": 542,
-    "timeMonth": 555,
-    "timeYear": 489,
+    "time": 487,
+    "timeDay": 359,
+    "timeWeek": 511,
+    "timeMonth": 549,
+    "timeYear": 487,
     "dailyMinutesDown": {
       "2022-03-11": 20,
       "2022-01-30": 6
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 631,
-    "timeDay": 767,
-    "timeWeek": 709,
-    "timeMonth": 765,
-    "timeYear": 631,
+    "time": 628,
+    "timeDay": 477,
+    "timeWeek": 665,
+    "timeMonth": 756,
+    "timeYear": 628,
     "dailyMinutesDown": {
       "2022-03-11": 20
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 628,
-    "timeDay": 800,
-    "timeWeek": 729,
-    "timeMonth": 706,
-    "timeYear": 628,
+    "time": 627,
+    "timeDay": 560,
+    "timeWeek": 693,
+    "timeMonth": 702,
+    "timeYear": 627,
     "dailyMinutesDown": {
       "2022-03-11": 19
     }
