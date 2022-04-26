@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "synthesize",
     "status": "down",
-    "uptime": "88.76%",
+    "uptime": "88.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "71.40%",
-    "uptimeYear": "88.76%",
+    "uptimeMonth": "70.28%",
+    "uptimeYear": "88.37%",
     "time": 491,
     "timeDay": 475,
     "timeWeek": 436,
     "timeMonth": 501,
     "timeYear": 491,
     "dailyMinutesDown": {
-      "2022-04-26": 84,
+      "2022-04-26": 574,
       "2022-04-25": 1440,
       "2022-04-24": 1440,
       "2022-04-23": 1440,
@@ -75,9 +75,9 @@
     "url": "$DATASET_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dataset",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -87,6 +87,7 @@
     "timeMonth": 718,
     "timeYear": 654,
     "dailyMinutesDown": {
+      "2022-04-26": 0,
       "2022-03-11": 19
     }
   }
