@@ -24,19 +24,19 @@
     "url": "https://next.aibeatz.com",
     "icon": "https://favicons.githubusercontent.com/next.aibeatz.com",
     "slug": "ai-beatz-next",
-    "status": "down",
-    "uptime": "99.79%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
-    "time": 351,
-    "timeDay": 351,
-    "timeWeek": 351,
-    "timeMonth": 351,
-    "timeYear": 351,
+    "status": "up",
+    "uptime": "90.06%",
+    "uptimeDay": "90.06%",
+    "uptimeWeek": "90.06%",
+    "uptimeMonth": "90.06%",
+    "uptimeYear": "90.06%",
+    "time": 425,
+    "timeDay": 425,
+    "timeWeek": 425,
+    "timeMonth": 425,
+    "timeYear": 425,
     "dailyMinutesDown": {
-      "2022-05-11": 0
+      "2022-05-11": 4
     }
   },
   {
