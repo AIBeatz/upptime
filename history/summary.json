@@ -82,7 +82,7 @@
     "url": "$DATASET_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "dataset",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -94,6 +94,7 @@
     "timeMonth": 722,
     "timeYear": 669,
     "dailyMinutesDown": {
+      "2022-05-16": 0,
       "2022-03-11": 19
     }
   }
