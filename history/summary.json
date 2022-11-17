@@ -4,9 +4,9 @@
     "url": "https://app.aibeatz.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.aibeatz.com.ico",
     "slug": "ai-beatz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 384,
     "timeYear": 433,
     "dailyMinutesDown": {
+      "2022-11-17": 0,
       "2022-08-28": 45,
       "2022-03-11": 21
     }
@@ -46,11 +47,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.aibeatz.com.ico",
     "slug": "ai-beatz-dev",
     "status": "up",
-    "uptime": "98.29%",
+    "uptime": "98.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "89.39%",
-    "uptimeYear": "98.29%",
+    "uptimeYear": "98.30%",
     "time": 519,
     "timeDay": 476,
     "timeWeek": 467,
