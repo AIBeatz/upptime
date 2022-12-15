@@ -2,13 +2,7 @@ owner: aibeatz
 repo: upptime
 sites:
   - name: AIBeatz
-    url: https://app.aibeatz.com
-  - name: AIBeatz - Next
-    url: https://next.aibeatz.com
-  - name: AIBeatz - Dev
-    url: https://dev.aibeatz.com
-#  - name: Synthesize
-#    url: $SYNTHESIZE_URL
+    url: https://aibeatz.com
   - name: Sound
     url: $SOUND_URL
   - name: Dataset
@@ -18,12 +12,12 @@ sites:
 status-website:
   name: AIBeatz uptimes
   cname: uptime.aibeatz.com
-  logoUrl: https://app.aibeatz.com/images/signet.png
-  favicon: https://app.aibeatz.com/images/favicon.png
+  logoUrl: https://aibeatz.com/logo-32x32.png
+  favicon: https://aibeatz.com/favicon.ico
   introTitle: "**AIBeatz** uptime monitor."
   introMessage: "Current status of all services:"
   navbar:
     - title: Status
       href: /
     - title: AIBeatz
-      href: https://app.aibeatz.com/
+      href: https://aibeatz.com/
