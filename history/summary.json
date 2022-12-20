@@ -4,7 +4,7 @@
     "url": "https://aibeatz.com",
     "icon": "https://icons.duckduckgo.com/ip3/aibeatz.com.ico",
     "slug": "ai-beatz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
@@ -16,6 +16,7 @@
     "timeMonth": 455,
     "timeYear": 436,
     "dailyMinutesDown": {
+      "2022-12-20": 0,
       "2022-12-15": 21,
       "2022-08-28": 45,
       "2022-03-11": 21
