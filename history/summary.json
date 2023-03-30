@@ -28,19 +28,19 @@
     "url": "$SOUND_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sound",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 580,
-    "timeDay": 588,
-    "timeWeek": 588,
-    "timeMonth": 578,
+    "timeDay": 629,
+    "timeWeek": 602,
+    "timeMonth": 582,
     "timeYear": 571,
     "dailyMinutesDown": {
-      "2023-03-30": 0
+      "2023-03-30": 6
     }
   },
   {
