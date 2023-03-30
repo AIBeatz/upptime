@@ -1,7 +1,7 @@
 url: $SOUND_URL
-status: up
-code: 200
-responseTime: 702
-lastUpdated: 2023-03-29T23:10:23.907Z
+status: down
+code: 502
+responseTime: 473
+lastUpdated: 2023-03-30T20:51:40.646Z
 startTime: Sun Jan 30 2022 22:16:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
