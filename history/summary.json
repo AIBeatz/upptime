@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 429,
-    "timeDay": 197,
-    "timeWeek": 202,
+    "timeDay": 224,
+    "timeWeek": 208,
     "timeMonth": 213,
-    "timeYear": 430,
+    "timeYear": 429,
     "dailyMinutesDown": {
       "2023-03-28": 36
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 580,
-    "timeDay": 492,
-    "timeWeek": 542,
-    "timeMonth": 528,
+    "timeDay": 704,
+    "timeWeek": 543,
+    "timeMonth": 534,
     "timeYear": 587,
     "dailyMinutesDown": {}
   },
@@ -42,17 +42,19 @@
     "url": "$DATASET_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dataset",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 674,
-    "timeDay": 586,
-    "timeWeek": 655,
-    "timeMonth": 619,
-    "timeYear": 672,
-    "dailyMinutesDown": {}
+    "timeDay": 0,
+    "timeWeek": 622,
+    "timeMonth": 621,
+    "timeYear": 671,
+    "dailyMinutesDown": {
+      "2024-02-07": 0
+    }
   }
 ]
