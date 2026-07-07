@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/aibeatz.com.ico",
     "slug": "ai-beatz",
     "status": "down",
-    "uptime": "98.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.73%",
-    "uptimeYear": "94.24%",
+    "uptime": "98.68%",
+    "uptimeDay": "86.26%",
+    "uptimeWeek": "98.04%",
+    "uptimeMonth": "96.27%",
+    "uptimeYear": "94.21%",
     "time": 526,
     "timeDay": 19602,
     "timeWeek": 4038,
@@ -41,7 +41,7 @@
       "2026-05-10": 1440,
       "2026-05-09": 19,
       "2026-06-29": 1434,
-      "2026-07-07": 0
+      "2026-07-07": 198
     }
   }
 ]
