@@ -4,17 +4,17 @@
     "url": "https://aibeatz.com",
     "icon": "https://icons.duckduckgo.com/ip3/aibeatz.com.ico",
     "slug": "ai-beatz",
-    "status": "up",
+    "status": "down",
     "uptime": "98.69%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.82%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "96.73%",
     "uptimeYear": "94.24%",
-    "time": 488,
-    "timeDay": 1825,
-    "timeWeek": 1388,
-    "timeMonth": 1906,
-    "timeYear": 555,
+    "time": 526,
+    "timeDay": 19602,
+    "timeWeek": 4038,
+    "timeMonth": 2513,
+    "timeYear": 608,
     "dailyMinutesDown": {
       "2026-03-15": 1404,
       "2026-03-14": 38,
@@ -40,7 +40,8 @@
       "2026-05-11": 1440,
       "2026-05-10": 1440,
       "2026-05-09": 19,
-      "2026-06-29": 1434
+      "2026-06-29": 1434,
+      "2026-07-07": 0
     }
   }
 ]
